@@ -23,13 +23,13 @@ Ingeniería en Sistemas Computacionales (Plan 2020)
 
 ![Inscripción Five Nights at ESCOM](evidencias/fnae_inscripcion.png)
 
-### Aplicación instalada y abierta
+### Aplicación instalada
 
-_Pendiente: captura._
+![Five Nights at ESCOM instalada](evidencias/fnae_instalada.jpeg)
 
 ### Observación
 
-_Pendiente._
+La instalación desde Google Play se completó correctamente: la ficha aparece como «acceso anticipado» y ofrece los botones *Desinstalar* y *Jugar*, lo que confirma que la prueba cerrada quedó activa en mi cuenta. _Pendiente: captura y observación de la app en ejecución._
 
 ---
 
@@ -42,10 +42,10 @@ _Pendiente._
 
 ![Inscripción Salones](evidencias/salones_inscripcion.png)
 
-### Aplicación instalada y abierta
+### Aplicación instalada
 
-_Pendiente: captura._
+![Salones UAM instalada](evidencias/salones_instalada.jpeg)
 
 ### Observación
 
-_Pendiente._
+La instalación desde Google Play se completó correctamente: la ficha aparece como «acceso anticipado», con los botones *Desinstalar* y *Abrir*. Las novedades indican la última actualización del 21 de octubre de 2026 («Prototipo 4: campus ESCOM del IPN, mapas y rutas por campus»). _Pendiente: captura y observación de la app en ejecución._
